@@ -19243,3 +19243,11 @@
     "repo": "especialkim/obsidian-synaptic-view"
   }
 ]
+,
+{
+  "id": "braintube-sync",
+  "name": "BrainTube Sync",
+  "author": "VR Express",
+  "description": "Sync your Obsidian vault to BrainTube for semantic search across all your knowledge.",
+  "repo": "lildaddyo/braintube-obsidian-plugin"
+}
